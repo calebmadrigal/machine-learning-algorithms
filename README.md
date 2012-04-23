@@ -1,4 +1,5 @@
 machine-learning-algorithms
 ===========================
 
-Machine Learning Algorithms
+My implementations (mainly in Python) of some of the Machine Learning algorithms from the Stanford Machine Learning class.
+
