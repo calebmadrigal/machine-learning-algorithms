@@ -39,3 +39,4 @@ if __name__ == "__main__":
     print line
 
     plot_data_and_line(line, data_file)
+
